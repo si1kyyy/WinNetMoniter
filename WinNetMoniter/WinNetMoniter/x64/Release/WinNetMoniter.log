@@ -1,0 +1,8 @@
+﻿D:\VS2019\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: 已启用 Spectre 缓解，但找不到 Spectre 缓解库。验证 Visual Studio 工作负荷包括 Spectre 缓解库。有关详细信息，请参阅 https://aka.ms/Ofhn4c。
+  WinNetMoniter.cpp
+  正在生成代码
+  4 of 4 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WinNetMoniter.vcxproj -> G:\ProjectSource\WinNetMoniter\WinNetMoniter\x64\Release\WinNetMoniter.exe
